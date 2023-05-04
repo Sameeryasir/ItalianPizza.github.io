@@ -315,7 +315,7 @@ section{
     font-size: 18px ;
     font-weight: 900;
 }
-.ratings i{
+.ratings a{
     font-size: 1rem;
     color: var(--rr-color);
     margin: 0 2px;
@@ -617,4 +617,4 @@ body.dark{
     --text-color:#fff;
     --bg-color:#1f1f1f;
     --bb-color:#0e0e0e;
-}
+} 
