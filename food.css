@@ -525,7 +525,6 @@ section{
 }
 .navbar a{
     display: block;
-    font-size: 24px;
     font-weight: 600;
     margin: 5px 30px;
     padding: 10px 0;
@@ -605,6 +604,13 @@ section{
         --bg-font:2rem;
         --h2-font:1rem;
         --p-font:0.9rem
+    }
+    .contact{
+        display: block;
+    }
+    .contact-box.footer-social{
+        text-align-last: center;
+        margin-bottom: 20px;
     }
 }
 #darkmode{
