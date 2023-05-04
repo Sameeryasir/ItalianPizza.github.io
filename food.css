@@ -472,10 +472,10 @@ color: var(--main-color);
 }
 @media (max-width:1680px){
     header{
-        padding: 10px 4%;
+        padding: 8px 3%;
     }
     section{
-        padding: 40px 4% 40px;
+        padding: 30px 4% 40px;
     }
 }
 @media(max-width:1220px){
@@ -602,8 +602,8 @@ section{
         max-width: 100%;
     }
     :root{
-        --bg-font:2.7rem;
-        --h2-font:1.8rem;
+        --bg-font:2rem;
+        --h2-font:1rem;
         --p-font:0.9rem
     }
 }
